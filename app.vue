@@ -1,3 +1,3 @@
 <template>
-  <div>borisXBP</div>
+  <NuxtPage></NuxtPage>
 </template>
